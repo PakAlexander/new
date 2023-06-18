@@ -11,6 +11,17 @@
 <img  src="https://cdn.pixabay.com/photo/2023/06/03/17/11/giraffe-8038107_1280.jpg" width="200" height="200"/>
 </p>
 ![New](img/coffee-meal-food-drink-plpconnectu-2009365-229609-pxhere.com-min-1024x682.jpg)
+
+<p class="aligncenter">
+    <img src="img/coffee-meal-food-drink-plpconnectu-2009365-229609-pxhere.com-min-1024x682.jpg" alt="изображение в центре параграфа" />
+</p>
+
+<style>
+.aligncenter {
+    text-align: center;
+}
+</style>
+
 | Программисты      | мэйнфреймвов       | 
 | -------------    |---------------  |
 | работавшие        | с перфокартами     |
