@@ -9,7 +9,7 @@
 ![Текст описания](https://img.itch.zone/aW1nLzc2ODcwMTkuZ2lm/original/qb91Cu.gif)
 
 ![Текст описания](https://cdn.pixabay.com/photo/2023/06/03/17/11/giraffe-8038107_1280.jpg)
-![New](coffee-meal-food-drink-plpconnectu-2009365-229609-pxhere.com-min-1024x682.jpg)
+![New](img/coffee-meal-food-drink-plpconnectu-2009365-229609-pxhere.com-min-1024x682.jpg)
 | Программисты      | мэйнфреймвов       | 
 | -------------    |---------------  |
 | работавшие        | с перфокартами     |
