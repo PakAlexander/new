@@ -8,3 +8,4 @@
 
 ![Текст описания](https://img.itch.zone/aW1nLzc2ODcwMTkuZ2lm/original/qb91Cu.gif)
 
+![Текст описания](https://www.example.com/image.jpg)
