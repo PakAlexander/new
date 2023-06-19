@@ -1,4 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 Что такое README?
 По сути, README это просто текстовый файл (в формате .txt или .md), играющий роль быстрой справки по проекту или директории. Обычно это самая заметная часть документации и landing page для большинства проектов с открытым кодом. Даже само название файла пишется одними заглавными буквами, чтобы привлечь внимание читателя и побудить его прочесть это файл в первую очередь.
@@ -51,3 +52,4 @@
     <td>Task 4.1</td>
   </tr>
 </table>
+![Static Badge](https://img.shields.io/badge/:badgeContent)
