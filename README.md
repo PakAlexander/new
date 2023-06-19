@@ -7,9 +7,18 @@
 
 Программисты мэйнфреймвов, работавшие с перфокартами, оставляли стопку инструкций (в бумажном виде) на передней панели и помечали их надписью «READ ME!» («Прочти меня!»).
 Название является отсылкой к «Алисе в стране чудес» Льюиса Кэрролла. Там Алиса находит пузырек с надписью «DRINK ME» («Выпей меня») и пирожное с надписью «EAT ME» («Съешь меня»). И то, и другое, позволяет ей меняться в размерах.
-
-<p align="center"> ![Текст описания](https://img.itch.zone/aW1nLzc2ODcwMTkuZ2lm/original/qb91Cu.gif) <img  src="https://cdn.pixabay.com/photo/2023/06/03/17/11/giraffe-8038107_1280.jpg" width="200" height="200"/></p>
-
+<table>
+    <tr>
+        <td>
+            <p> <img  src="https://img.itch.zone/aW1nLzc2ODcwMTkuZ2lm/original/qb91Cu.gif" width="200" height="200"/></p>                        
+        </td>
+        <td>
+            <p> <img  src="https://cdn.pixabay.com/photo/2023/06/03/17/11/giraffe-8038107_1280.jpg" width="200" height="200"/></p>            
+        </td>
+        
+    </tr>
+![Текст описания](https://img.itch.zone/aW1nLzc2ODcwMTkuZ2lm/original/qb91Cu.gif) <p align="center"> <img  src="https://cdn.pixabay.com/photo/2023/06/03/17/11/giraffe-8038107_1280.jpg" width="200" height="200"/></p>
+</table>
 
 <p class="aligncenter">
     <img src="img/coffee-meal-food-drink-plpconnectu-2009365-229609-pxhere.com-min-1024x682.jpg" alt="изображение в центре параграфа" />
