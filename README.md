@@ -9,13 +9,12 @@
 Название является отсылкой к «Алисе в стране чудес» Льюиса Кэрролла. Там Алиса находит пузырек с надписью «DRINK ME» («Выпей меня») и пирожное с надписью «EAT ME» («Съешь меня»). И то, и другое, позволяет ей меняться в размерах.
 <table align="center">
     <tr>
-        <td>
+        <th>
             <p> <img  src="https://img.itch.zone/aW1nLzc2ODcwMTkuZ2lm/original/qb91Cu.gif" width="200" height="200"/></p>                        
-        </td>
-        <td>
+        </th>
+        <th>
             <p> <img  src="https://cdn.pixabay.com/photo/2023/06/03/17/11/giraffe-8038107_1280.jpg" width="200" height="200"/></p>            
-        </td>
-        
+        </th>
     </tr>
 </table>    
 ![Текст описания](https://img.itch.zone/aW1nLzc2ODcwMTkuZ2lm/original/qb91Cu.gif) 
