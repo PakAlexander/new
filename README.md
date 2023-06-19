@@ -8,9 +8,7 @@
 Программисты мэйнфреймвов, работавшие с перфокартами, оставляли стопку инструкций (в бумажном виде) на передней панели и помечали их надписью «READ ME!» («Прочти меня!»).
 Название является отсылкой к «Алисе в стране чудес» Льюиса Кэрролла. Там Алиса находит пузырек с надписью «DRINK ME» («Выпей меня») и пирожное с надписью «EAT ME» («Съешь меня»). И то, и другое, позволяет ей меняться в размерах.
 
-![Текст описания](https://img.itch.zone/aW1nLzc2ODcwMTkuZ2lm/original/qb91Cu.gif) <p align="center">
-<img  src="https://cdn.pixabay.com/photo/2023/06/03/17/11/giraffe-8038107_1280.jpg" width="200" height="200"/>
-</p>
+![Текст описания](https://img.itch.zone/aW1nLzc2ODcwMTkuZ2lm/original/qb91Cu.gif)<p align="center"><img  src="https://cdn.pixabay.com/photo/2023/06/03/17/11/giraffe-8038107_1280.jpg" width="200" height="200"/></p>
 
 
 <p class="aligncenter">
